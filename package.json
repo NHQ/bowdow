@@ -11,8 +11,9 @@
     "base64-arraybuffer": "",
     "brfs": "",
     "domready": "^1.0.8",
-    "jsytnh-file-sample": "",
-    "jsynth": "^2.8.0"
+    "jdelay": "",
+    "jsynth": "^2.8.0",
+    "jsynth-file-sample": "^1.3.1"
   },
   "repository": "",
   "author": {
@@ -37,11 +38,5 @@
       "email": "mostmodernist@gmail.com"
     }
   ],
-  "directories": {},
-  "_shasum": "06ff1a92fda678a9465da89de4821a5d4caa917c",
-  "_from": "jsynth-file-sample@",
-  "_resolved": "https://registry.npmjs.org/jsynth-file-sample/-/jsynth-file-sample-1.0.0.tgz",
-  "dependencies": {
-    "jdelay": "^9.1.0"
-  }
+  "directories": {}
 }

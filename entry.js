@@ -71,7 +71,7 @@ ready(function(){
         m += .00000000005
         
         d(i* a, Math.floor(spb * Math.floor(dist)), 1 -f, 1-m)
-        return a*((i/2) + od(i, s % l < scb * 12 * sr ? Math.floor(spb * 1/3): Math.floor(spb * odist), 1 - f, 1 - m))  
+        return a*((i/3) + od(i, s % l < scb * 12 * sr ? Math.floor(spb * 1/3): Math.floor(spb * odist), 1 - f, 1 - m))  
       }
     })
     window.woohooGlobal = synth
